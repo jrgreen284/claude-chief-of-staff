@@ -8,6 +8,13 @@ Everything lives in plain markdown in your own vault. Nothing is sent anywhere e
 
 ![An example daily note written by the morning brief](docs/images/daily-note.png)
 
+<details>
+<summary>…and its Focus Plan</summary>
+
+![The Focus Plan, with tasks fitted into gaps in the diary](docs/images/daily-note-focus-plan.png)
+
+</details>
+
 ## What's included
 
 | Type | Name | What it does |
