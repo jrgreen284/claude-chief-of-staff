@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+.env
+
+# Never commit a real vault or its generated state
+graphify-out/
+.cos/
+.obsidian/
+.claude/settings.local.json

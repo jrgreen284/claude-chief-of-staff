@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "chief-of-staff",
+  "description": "AI Chief of Staff suite for Claude Code and Obsidian.",
+  "owner": {
+    "name": "Ralph Green"
+  },
+  "plugins": [
+    {
+      "name": "chief-of-staff",
+      "description": "Morning briefing, end-of-day capture, meeting prep, commitments, weekly and monthly reviews, plus a career mentor, all running from your Obsidian vault.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/jrgreen284/claude-chief-of-staff"
+    }
+  ]
+}

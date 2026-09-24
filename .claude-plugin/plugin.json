@@ -1,0 +1,13 @@
+{
+  "name": "chief-of-staff",
+  "version": "0.1.1",
+  "description": "An AI Chief of Staff, Executive Assistant and Mentor for Claude Code, running your day out of an Obsidian vault with optional Microsoft 365 calendar, email and Teams context.",
+  "author": {
+    "name": "Ralph Green",
+    "url": "https://github.com/jrgreen284"
+  },
+  "homepage": "https://github.com/jrgreen284/claude-chief-of-staff",
+  "repository": "https://github.com/jrgreen284/claude-chief-of-staff",
+  "license": "MIT",
+  "keywords": ["obsidian", "productivity", "chief-of-staff", "microsoft-365", "daily-planning"]
+}
